@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: bmt Maven Webapp
+Implementation-Version: 1.0
+Built-By: zhumeng
+Implementation-Vendor-Id: com.zhum
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.7
+Main-Class: ${start-class}
+

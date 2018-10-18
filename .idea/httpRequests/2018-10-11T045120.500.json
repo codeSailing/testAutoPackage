@@ -1,0 +1,8 @@
+{
+  "timestamp": 1539247880004,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "org.apache.ibatis.builder.IncompleteElementException",
+  "message": "Could not find SQL statement to include with refid 'com.zhum.demo.mapper.UserMapper.User_Column_List'",
+  "path": "/bmt/user/add"
+}

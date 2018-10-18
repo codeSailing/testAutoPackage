@@ -1,0 +1,222 @@
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T052115.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T051201.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T051118.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T050729.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T050304.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T045626.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T045434.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T045323.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T045225.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222&sex=1
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T045217.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T045120.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T044233.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T044013.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T043739.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T042814.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T042143.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T041356.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T041258.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T040926.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T040410.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T035747.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T035739.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T035610.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+<> 2018-10-11T034118.500.json
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8088/bmt/user/add?username=张三&password=111111&phone=1515522222222
+Accept: application/json
+Cache-Control: no-cache
+
+###
+
