@@ -1,8 +1,0 @@
-com\zhum\demo\service\UserService.class
-com\zhum\demo\Application$1.class
-com\zhum\demo\pojo\ResponseData.class
-com\zhum\demo\mapper\UserMapper.class
-com\zhum\demo\service\impl\UserServiceImpl.class
-com\zhum\demo\controller\UserController.class
-com\zhum\demo\entity\User.class
-com\zhum\demo\Application.class
